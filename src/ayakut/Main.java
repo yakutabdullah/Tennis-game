@@ -134,15 +134,7 @@ public int birincix;
 	}
 	
 	public void actionPerformed(ActionEvent e) {
-	/*	for (BallPanel ball : ballVector) {
-			ball.pleaseWait = !ball.pleaseWait;
-		}
-		System.out.print("apo"+apo);
-		if( btnStop.getText().equalsIgnoreCase("STOP"))
-			btnStop.setText("START");
-		else
-			btnStop.setText("STOP");
-			*/
+
 		System.out.print("apo"+apo);
 	}
 
